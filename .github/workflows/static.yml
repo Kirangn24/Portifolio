@@ -3,7 +3,7 @@ name: Deploy Portfolio to GitHub Pages
 on:
   push:
     branches:
-      - main  # Change to your default branch if different
+      - main  # Trigger deployment on main branch push
   workflow_dispatch:
 
 jobs:
@@ -17,6 +17,6 @@ jobs:
       - name: Deploy Public Folder to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          branch: main  # Deployment branch
+          branch: gh-pages  # Deploy to gh-pages branch
           folder: public    # Folder containing index.html
           clean: true       # Cleans up old files before deployment
