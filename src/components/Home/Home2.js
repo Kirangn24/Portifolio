@@ -32,7 +32,7 @@ function Home2() {
   <i>
     <b className="purple">Web Technologies and Products, </b>
   </i>
-  with a strong inclination toward
+  with a strong inclination toward 
   <b className="purple"> Microservices Architecture, Cloud Computing, and Distributed Systems. </b>
   <br />
   <br />
