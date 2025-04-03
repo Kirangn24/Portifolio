@@ -23,7 +23,7 @@ function AboutCard() {
   <br />
   I have a strong passion for technology and software development, particularly in
   <i>
-    <b className="purple"> Java, Spring Boot, Microservices, and SQL.</b>
+    <b className="purple"> Java, Spring Boot, Microservices, and MySQL.</b>
   </i>
   My expertise lies in developing web applications, backend APIs, and optimizing database operations for high-performance systems.
   <br />
