@@ -5,7 +5,7 @@ import Particle from "../Particle";
 import calculator from "../../Assets/Projects/calculator.jpg";
 import database from "../../Assets/Projects/database.png";
 import chaloyaar from "../../Assets/Projects/chaloyaar.jpg";
-import subwaysurface from "../../Assets/Projects/chaloyaar.jpg";
+import subwaysurface from "../../Assets/Projects/subway.jpg";
 import Spotify_Clone from "../../Assets/Projects/Spotify_Clone.jpg";
 import banking from "../../Assets/Projects/banking.jpg";
 
