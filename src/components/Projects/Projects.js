@@ -5,6 +5,7 @@ import Particle from "../Particle";
 import calculator from "../../Assets/Projects/calculator.jpg";
 import database from "../../Assets/Projects/database.png";
 import chaloyaar from "../../Assets/Projects/chaloyaar.jpg";
+import subwaysurface from "../../Assets/Projects/chaloyaar.jpg";
 import Spotify_Clone from "../../Assets/Projects/Spotify_Clone.jpg";
 import banking from "../../Assets/Projects/banking.jpg";
 
@@ -20,6 +21,18 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={subwaysurface}
+              isBlog={false}
+              title="AI-Powered Gesture-Based Subway Surfer Controller"
+              description=" Enables hand-disabled users to play using head gestures via webcam. Built with Python, OpenCV, MediaPipe, and PyAutoGUI to simulate arrow keys — no extra hardware needed.
+               Features: Real-time head tracking, hands-free control, accessibility-focused"
+              ghLink="https://github.com/Kirangn24/AI-SUBWAY-CONTROLL"
+              demoLink=" "
+            />
+          </Col>
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={chaloyaar}
