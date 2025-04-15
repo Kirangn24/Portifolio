@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Portifolio/static/css/main.ecd1e697.css",
+    "main.js": "/Portifolio/static/js/main.f521c25c.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Portifolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portifolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Spotify_Clone.jpg": "/Portifolio/static/media/Spotify_Clone.99826600e459cebb3dac.jpg",
+    "static/media/chaloyaar.jpg": "/Portifolio/static/media/chaloyaar.a6ee8079f975709120ef.jpg",
+    "static/media/banking.jpg": "/Portifolio/static/media/banking.68ace9e553017bb74fba.jpg",
+    "static/media/Kiran_1year_Resume.pdf": "/Portifolio/static/media/Kiran_1year_Resume.ad1ba04508a33d6b6c91.pdf",
+    "static/media/home-main.svg": "/Portifolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/Portifolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/database.png": "/Portifolio/static/media/database.614205755f938d209a78.png",
+    "static/media/calculator.jpg": "/Portifolio/static/media/calculator.8ba52372ce297014ee51.jpg",
+    "static/media/home-bg.jpg": "/Portifolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo.jpg": "/Portifolio/static/media/logo.e6c7e7b5cb4146c1a0fd.jpg",
+    "static/media/avatar.svg": "/Portifolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/Portifolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Portifolio/index.html",
+    "main.ecd1e697.css.map": "/Portifolio/static/css/main.ecd1e697.css.map",
+    "main.f521c25c.js.map": "/Portifolio/static/js/main.f521c25c.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Portifolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portifolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecd1e697.css",
+    "static/js/main.f521c25c.js"
+  ]
+}
