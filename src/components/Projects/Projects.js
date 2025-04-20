@@ -29,7 +29,7 @@ function Projects() {
               description=" Enables hand-disabled users to play using head gestures via webcam. Built with Python, OpenCV, MediaPipe, and PyAutoGUI to simulate arrow keys — no extra hardware needed.
                Features: Real-time head tracking, hands-free control, accessibility-focused"
               ghLink="https://github.com/Kirangn24/AI-SUBWAY-CONTROLL"
-              demoLink=" "
+              demoLink=" "  
             />
           </Col>
 
