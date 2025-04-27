@@ -2,11 +2,18 @@ import React, { useState } from "react";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import Container from "react-bootstrap/Container";
+<<<<<<< HEAD
 import logo from "../Assets/logo.jpg";
 import Button from "react-bootstrap/Button";
 import { Link } from "react-router-dom";
 import { CgGitFork } from "react-icons/cg";
 //import { ImBlog } from "react-icons/im";
+=======
+import logo from "../Assets/logo.png";
+import Button from "react-bootstrap/Button";
+import { Link } from "react-router-dom";
+import { CgGitFork } from "react-icons/cg";
+>>>>>>> 33013bfca9ff75f39fc555b9b6ccd74643fc4cca
 import {
   AiFillStar,
   AiOutlineHome,
@@ -98,13 +105,21 @@ function NavBar() {
                 target="_blank"
                 rel="noreferrer"
               >
+<<<<<<< HEAD
                 {/*<ImBlog style={{ marginBottom: "2px" }} /> Blogs*/}
+=======
+                
+>>>>>>> 33013bfca9ff75f39fc555b9b6ccd74643fc4cca
               </Nav.Link>
             </Nav.Item>
 
             <Nav.Item className="fork-btn">
               <Button
+<<<<<<< HEAD
                 href=" https://kirangn24.github.io/Portifolio/"
+=======
+                href="https://github.com/Kirangn24/Portfolio"
+>>>>>>> 33013bfca9ff75f39fc555b9b6ccd74643fc4cca
                 target="_blank"
                 className="fork-btn-inner"
               >

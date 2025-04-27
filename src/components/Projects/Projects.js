@@ -1,12 +1,21 @@
+<<<<<<< HEAD
  import React from "react";
+=======
+import React from "react";
+>>>>>>> 33013bfca9ff75f39fc555b9b6ccd74643fc4cca
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import calculator from "../../Assets/Projects/calculator.jpg";
 import database from "../../Assets/Projects/database.png";
 import chaloyaar from "../../Assets/Projects/chaloyaar.jpg";
+<<<<<<< HEAD
 import subwaysurface from "../../Assets/Projects/pro1.png";
 import Spotify_Clone from "../../Assets/Projects/Spotify_Clone.jpg"; 
+=======
+import subwaysurface from "../../Assets/Projects/subway.jpg";
+import Spotify_Clone from "../../Assets/Projects/Spotify_Clone.jpg";
+>>>>>>> 33013bfca9ff75f39fc555b9b6ccd74643fc4cca
 import banking from "../../Assets/Projects/banking.jpg";
 
 function Projects() {
@@ -26,11 +35,18 @@ function Projects() {
               imgPath={subwaysurface}
               isBlog={false}
               title="AI-Powered Gesture-Based Subway Surfer Controller"
+<<<<<<< HEAD
               description=" This system allows hand-disabled users to play Subway Surfer using head gestures 
               detected by a webcam, utilizing Python, OpenCV, and MediaPipe. It simulates arrow key presses through 
               real-time head tracking, providing a hands-free, accessible gaming experience with no extra hardware required."
               ghLink="https://github.com/Kirangn24/AI-SUBWAY-CONTROLL"
               demoLink=" "  
+=======
+              description=" Enables hand-disabled users to play using head gestures via webcam. Built with Python, OpenCV, MediaPipe, and PyAutoGUI to simulate arrow keys — no extra hardware needed.
+               Features: Real-time head tracking, hands-free control, accessibility-focused"
+              ghLink="https://github.com/Kirangn24/AI-SUBWAY-CONTROLL"
+              demoLink=" "
+>>>>>>> 33013bfca9ff75f39fc555b9b6ccd74643fc4cca
             />
           </Col>
 
@@ -39,12 +55,15 @@ function Projects() {
               imgPath={chaloyaar}
               isBlog={false}
               title="Chaloyaar"
+<<<<<<< HEAD
               description=" Chaloyaar is an online bus booking application that streamlines ticket reservations for 
               passengers. We developed it using Java, Spring Boot, MySQL, and frontend technologies to provide a seamless 
               booking experience. The system includes features like real-time seat availability, route management, and secure 
               payments."
-              ghLink=""
-              demoLink="https://www.chaloyaar.com/Chaloyaar/"
+=======
+              description=" Chaloyaar is an online bus booking application that streamlines ticket reservations for passengers. We developed it using Java, Spring Boot, MySQL, and frontend technologies to provide a seamless booking experience. The system includes features like real-time seat availability, route management, and secure payments."
+>>>>>>> 33013bfca9ff75f39fc555b9b6ccd74643fc4cca
+k="https://www.chaloyaar.com/Chaloyaar/"
             />
           </Col>
 

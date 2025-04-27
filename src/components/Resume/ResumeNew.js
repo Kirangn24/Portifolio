@@ -38,6 +38,7 @@ function ResumeNew() {
         </Row>
 
         <Row style={{ justifyContent: "center", position: "relative" }}>
+<<<<<<< HEAD
           <Button
             variant="primary"
             href={pdf}
@@ -47,6 +48,18 @@ function ResumeNew() {
             <AiOutlineDownload />
             &nbsp;Download CV
           </Button>
+=======
+        <a href={pdf} download="Kiran_1year_Resume.pdf">
+  <Button variant="primary" style={{ maxWidth: "250px" }}>
+    <AiOutlineDownload />
+    &nbsp;Download CV
+  </Button>
+</a>
+
+
+
+          
+>>>>>>> 33013bfca9ff75f39fc555b9b6ccd74643fc4cca
         </Row>
       </Container>
     </div>

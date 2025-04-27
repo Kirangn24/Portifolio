@@ -2,7 +2,8 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kirangn24.github.io/Portifolio/",
+AD
+  "homepage": "https://kirangn24.github.io/Portifolio/ca
   "dependencies": {
     "@react-pdf/renderer": "^2.2.0",
     "@testing-library/jest-dom": "^5.16.2",
@@ -26,8 +27,11 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+<<<<<<< HEAD
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+=======
+>>>>>>> 33013bfca9ff75f39fc555b9b6ccd74643fc4cca
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -48,8 +52,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+<<<<<<< HEAD
   },
   "devDependencies": {
     "gh-pages": "^6.3.0"
-  }
-}
+=======
+>>>>>>> 33013bfca9ff75f39fc555b9b6ccd74643fc4cca

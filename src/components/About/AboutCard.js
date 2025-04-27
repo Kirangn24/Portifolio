@@ -7,6 +7,7 @@ function AboutCard() {
     <Card className="quote-card-view">
       <Card.Body>
         <blockquote className="blockquote mb-0">
+<<<<<<< HEAD
           
 
         <p style={{ textAlign: "justify" }}>
@@ -39,12 +40,29 @@ function AboutCard() {
   Let's connect and build something amazing together! 🚀
 </p>
 
+=======
+          <p style={{ textAlign: "justify" }}>
+            Hi Everyone, I am <span className="purple">Kiran G N </span>
+            from <span className="purple"> Bengaluru,karnataka,India.</span>
+            <br />
+            I am currently employed as a software engineer at Radiant Info Systems.
+            <br />
+            I have completed Bachelor Of Engineering at Global Academy of Technology in Bengaluru.
+            <br />
+            <br />
+            Apart from coding, some other activities that I love to do!
+          </p>
+>>>>>>> 33013bfca9ff75f39fc555b9b6ccd74643fc4cca
           <ul>
             <li className="about-activity">
               <ImPointRight /> Playing Games
             </li>
             <li className="about-activity">
+<<<<<<< HEAD
               <ImPointRight /> Listening Music
+=======
+              <ImPointRight /> Writing Tech Blogs
+>>>>>>> 33013bfca9ff75f39fc555b9b6ccd74643fc4cca
             </li>
             <li className="about-activity">
               <ImPointRight /> Travelling
